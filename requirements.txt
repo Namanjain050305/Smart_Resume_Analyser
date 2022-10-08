@@ -1,0 +1,10 @@
+pdfminer3
+pyresparser
+streamlit
+pandas
+pafy
+pafy youtube.dl youtube_dl
+plotly
+pymysql
+streamlit-tags
+Pillow
