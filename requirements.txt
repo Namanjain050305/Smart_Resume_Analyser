@@ -3,7 +3,6 @@ pyresparser
 streamlit
 pandas
 pafy
-pafy 
 plotly
 pymysql
 streamlit-tags
