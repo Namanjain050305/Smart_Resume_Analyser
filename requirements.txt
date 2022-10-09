@@ -3,7 +3,7 @@ pyresparser
 streamlit
 pandas
 pafy
-pafy youtube.dl youtube_dl
+pafy 
 plotly
 pymysql
 streamlit-tags
