@@ -2,9 +2,9 @@
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)                 
 [![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)   
 
-Check out the live demo: https://www.youtube.com/watch?v=3oNHNVa-kWE
-<img src="https://github.com/Spidy20/Smart_Resume_Analyser_App/blob/master/yt_thumb.jpg">
 
+<img src="https://github.com/Spidy20/Smart_Resume_Analyser_App/blob/master/yt_thumb.jpg">
+Check out the live demo: https://www.youtube.com/watch?v=3oNHNVa-kWE
 ## Source
 - Extracting user's information from the Resume, I used [PyResparser](https://omkarpathak.in/pyresparser/)
 - Extracting Resume PDF into Text, I used [PDFMiner](https://pypi.org/project/pdfminer/).
