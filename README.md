@@ -3,8 +3,6 @@
 [![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)   
 Check out the live demo: https://www.youtube.com/watch?v=3oNHNVa-kWE
 
-<img src="https://github.com/Spidy20/Smart_Resume_Analyser_App/blob/master/yt_thumb.jpg">
-
 ## Source
 - Extracting user's information from the Resume, I used [PyResparser](https://omkarpathak.in/pyresparser/)
 - Extracting Resume PDF into Text, I used [PDFMiner](https://pypi.org/project/pdfminer/).
@@ -36,14 +34,6 @@ Check out the live demo: https://www.youtube.com/watch?v=3oNHNVa-kWE
 - `Classifier.py` is the main file which is containing a KNN Algorithm.
 
 - Admin side credentials is `naman_jain` and password is `naman@123`. 
-
-## Screenshots
-
-## User side
-<img src="https://github.com/Spidy20/Smart_Resume_Analyser_App/blob/master/sc1.png">
-
-## Admin Side
-<img src="https://github.com/Spidy20/Smart_Resume_Analyser_App/blob/master/sc2.png">
 
 
 ## Just follow☝️ me and Star⭐ my repository 
